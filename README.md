@@ -1,2 +1,2 @@
 # algorithm
-problem solve
+BOJ, Programmers, etc problem solve
